@@ -29,7 +29,7 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 | Name 1 | Name 2 | Name 3 |
 | -------- | -------- | -------- |
 | Profile Screenshot 1 | Profile Screenshot 2 | Profile Screenshot 3 |
-| 🏅 6 |  🏅 13 | 🏅 4 |
+| 🏅 0 |  🏅 0 | 🏅 0 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -38,7 +38,7 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 | Name 4 | Name 5 | Name 6 |
 | -------- | -------- | -------- |
 | Profile Screenshot 4 | Profile Screenshot 5 | Profile Screenshot 6 |
-| 🏅 2 |  🏅 5 | 🏅 11 |
+| 🏅 0 |  🏅 0 | 🏅 0 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -47,7 +47,7 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 | Name 7 | Name 8 | Name 9 |
 | -------- | -------- | -------- |
 | Profile Screenshot 7 | Profile Screenshot 8 | Profile Screenshot 9 |
-| 🏅 0 |  🏅 4 | 🏅 7 |
+| 🏅 0 |  🏅 0 | 🏅 0 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -66,10 +66,3 @@ Once the winner is determined this is what they get:
 - Their name and GitHub link will be added to App-Choreo's website.
 - The owner of this organisation CodingSpecies, will add the link of the winners profile to their own profile README.
 - Other prizes are still to be considered.
-
-
-## 🎯 Filling in the Leagues:
-
-- To add your entry, replace the `NAME 1` (or whatever number) with your GitHub name and link in this format: `[GitHub Name](githubprofilelink)`.
-- Where it says `Profile Screenshot 1`(or whatever number) change it to your profile README screenshot.
-

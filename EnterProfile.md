@@ -16,3 +16,8 @@
 14. See your votes increase and hopefully...
 
 ### 🏆 You could have the next best GitHub profile! 🏆
+
+## 🎯 Filling in the Leagues:
+
+- To add your entry, replace the `NAME 1` (or whatever number) with your GitHub name and link in this format: `[GitHub Name](githubprofilelink)`.
+- Where it says `Profile Screenshot 1`(or whatever number) change it to your profile README screenshot.
