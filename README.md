@@ -1,15 +1,17 @@
+###### Join our org [Here ✉️](https://github.com/App-Choreography/Get-An-Invite/issues/new?assignees=CodingSpecies&labels=Organisation+Invite%21+%F0%9F%93%A8&template=please-can-i-join-this-organisation------.md&title=Please+Can+I+Join+This+Organisation%3F+%F0%9F%A5%BA%F0%9F%99%8F") | [Our Website 🌐](https://app-choreography.github.io/) | [Repositories 📚](https://github.com/orgs/App-Choreography/repositories)
+
 ![banner](./banner.png)
 
 ## 🏆 Current Winner 🏆: `_______________` . 
 
-> ###### Will be regularly updated.
+> ##### Will be regularly updated.
 
 ## What is *GitHub Profile League* ?
 👉 Do you want to have the best GitHub profile README?
 
 👉 Do you want to vote for others profile READMEs?
 
-👉 Do you wish to fill in the green squares on your profile?
+👉 Do you wish to fill in the green squares on your profile, but also have some competition fun?
 
 This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote for others! 
 
@@ -26,7 +28,7 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 
 ## League 1 🥇:
 
-| Name 1 | Name 2 | Name 3 |
+| Insert Name 1 | Insert Name 2 | Insert Name 3 |
 | -------- | -------- | -------- |
 | Profile Screenshot 1 | Profile Screenshot 2 | Profile Screenshot 3 |
 | 🏅 0 |  🏅 0 | 🏅 0 |
@@ -35,7 +37,7 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 
 ## League 2 🥈:
 
-| Name 4 | Name 5 | Name 6 |
+| Insert Name 4 | Insert Name 5 | Insert Name 6 |
 | -------- | -------- | -------- |
 | Profile Screenshot 4 | Profile Screenshot 5 | Profile Screenshot 6 |
 | 🏅 0 |  🏅 0 | 🏅 0 |
@@ -44,7 +46,7 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 
 ## League 3 🥉:
 
-| Name 7 | Name 8 | Name 9 |
+| Insert Name 7 | Insert Name 8 | Insert Name 9 |
 | -------- | -------- | -------- |
 | Profile Screenshot 7 | Profile Screenshot 8 | Profile Screenshot 9 |
 | 🏅 0 |  🏅 0 | 🏅 0 |
@@ -65,4 +67,5 @@ Once the winner is determined this is what they get:
 - A professional and personalised digital banner, which you can customize once you win showing you have the best GitHub profile README.
 - Their name and GitHub link will be added to App-Choreo's website.
 - The owner of this organisation CodingSpecies, will add the link of the winners profile to their own profile README.
+- A certificate.
 - Other prizes are still to be considered.
