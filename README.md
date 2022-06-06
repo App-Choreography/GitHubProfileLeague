@@ -28,28 +28,25 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 
 ## League 1 🥇:
 
-| Insert Name 1 | Insert Name 2 | Insert Name 3 |
+| Insert Name 1: `🏅 0` | Insert Name 2: `🏅 0`| [CodingSpecies](https://github.com/CodingSpecies): `🏅 0`|
 | -------- | -------- | -------- |
-| Profile Screenshot 1 | Profile Screenshot 2 | Profile Screenshot 3 |
-| 🏅 0 |  🏅 0 | 🏅 0 |
+| Profile Screenshot 1 | Profile Screenshot 2 | ![codingspecies](https://user-images.githubusercontent.com/70807500/172232195-bab6fd2c-d8a2-4321-97b6-90fe2de4e255.png) |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## League 2 🥈:
 
-| Insert Name 4 | Insert Name 5 | Insert Name 6 |
+| Insert Name 4: `🏅 0`| Insert Name 5: `🏅 0` | Insert Name 6: `🏅 0`|
 | -------- | -------- | -------- |
 | Profile Screenshot 4 | Profile Screenshot 5 | Profile Screenshot 6 |
-| 🏅 0 |  🏅 0 | 🏅 0 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## League 3 🥉:
 
-| Insert Name 7 | Insert Name 8 | Insert Name 9 |
+| Insert Name 7: `🏅 0` | Insert Name 8: `🏅 0` | Insert Name 9: `🏅 0` |
 | -------- | -------- | -------- |
 | Profile Screenshot 7 | Profile Screenshot 8 | Profile Screenshot 9 |
-| 🏅 0 |  🏅 0 | 🏅 0 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
