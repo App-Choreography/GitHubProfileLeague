@@ -28,9 +28,9 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 
 ## League 1 🥇:
 
-| Insert Name 1: `🏅 0` | Insert Name 2: `🏅 0`| [CodingSpecies](https://github.com/CodingSpecies): `🏅 0`|
+| [JayantGoel001](https://github.com/JayantGoel001): `🏅 0` | Insert Name 2: `🏅 0`| [CodingSpecies](https://github.com/CodingSpecies): `🏅 1`|
 | -------- | -------- | -------- |
-| Profile Screenshot 1 | Profile Screenshot 2 | ![codingspecies](https://user-images.githubusercontent.com/70807500/172232195-bab6fd2c-d8a2-4321-97b6-90fe2de4e255.png) |
+| ![JayantGoel001](https://user-images.githubusercontent.com/54479676/173868435-d044ef00-2b4c-4526-8c09-dd7fd1786247.png) | Profile Screenshot 2 | ![codingspecies](https://user-images.githubusercontent.com/70807500/172232195-bab6fd2c-d8a2-4321-97b6-90fe2de4e255.png) |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
