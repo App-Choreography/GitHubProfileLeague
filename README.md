@@ -28,7 +28,7 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 
 ## League 1 🥇:
 
-| [JayantGoel001](https://github.com/JayantGoel001): `🏅 0` | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009): `🏅 1`| [CodingSpecies](https://github.com/CodingSpecies): `🏅 1`|
+| [JayantGoel001](https://github.com/JayantGoel001): `🏅 0` | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009): `🏅 0`| [CodingSpecies](https://github.com/CodingSpecies): `🏅 1`|
 | -------- | -------- | -------- |
 | ![JayantGoel001](https://user-images.githubusercontent.com/54479676/173868435-d044ef00-2b4c-4526-8c09-dd7fd1786247.png) | ![thuongtruong1009](https://user-images.githubusercontent.com/71834167/174098296-dd8d9f2f-90ca-4341-967a-c58268befd24.png) | To see profile image, please keep scrolling! ![codingspecies](https://user-images.githubusercontent.com/70807500/172232195-bab6fd2c-d8a2-4321-97b6-90fe2de4e255.png) |
 
