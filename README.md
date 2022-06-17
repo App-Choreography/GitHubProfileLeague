@@ -36,9 +36,9 @@ This is where we can see some of GitHub's 💫BEST💫 profile READMEs and vote 
 
 ## League 2 🥈:
 
-| Insert Name 4: `🏅 0`| Insert Name 5: `🏅 0` | Insert Name 6: `🏅 0`|
+| [imaaquibali](https://github.com/imaaquibali): `🏅 0`| Insert Name 5: `🏅 0` | Insert Name 6: `🏅 0`|
 | -------- | -------- | -------- |
-| Profile Screenshot 4 | Profile Screenshot 5 | Profile Screenshot 6 |
+| ![imaaquibali](https://user-images.githubusercontent.com/84700316/174264125-68858792-a98a-4379-a6d0-025b64a7f70b.png) | Profile Screenshot 5 | Profile Screenshot 6 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
