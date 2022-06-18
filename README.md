@@ -39,7 +39,7 @@ Due to some image sizing, you may have to scroll to see the screenshots of the p
 
 | [imaaquibali](https://github.com/imaaquibali): `🏅 0`| [trinib](https://github.com/trinib): `🏅 0` | Insert Name 6: `🏅 0`|
 | -------- | -------- | -------- |
-| ![imaaquibali](https://user-images.githubusercontent.com/84700316/174264125-68858792-a98a-4379-a6d0-025b64a7f70b.png) | ![trinib](https://raw.githubusercontent.com/trinib/test/main/www.ubuy.com.jpg?token=GHSAT0AAAAAABUXAXNXYIRRYTRR5VWOHQAMYVN6JZA) | Profile Screenshot 6 |
+| ![imaaquibali](https://user-images.githubusercontent.com/84700316/174264125-68858792-a98a-4379-a6d0-025b64a7f70b.png) | ![trinib](https://user-images.githubusercontent.com/18756975/174445117-4c24ce74-13aa-4070-a110-4628a14d0203.jpg) | Profile Screenshot 6 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
