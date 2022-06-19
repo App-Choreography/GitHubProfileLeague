@@ -46,10 +46,9 @@ Due to some image sizing, you may have to scroll to see the screenshots of the p
 ## League 3 🥉:
 
 
-| Cyebukayire 7: `🏅 0` | Insert Name 8: `🏅 0` | Insert Name 9: `🏅 0` |
+| [Cyebukayire](https://github.com/Cyebukayire) : `🏅 0` | Insert Name 8: `🏅 0` | Insert Name 9: `🏅 0` |
 | -------- | -------- | -------- |
-| <img width="631" alt="Screenshot 1401-03-29 at 19 59 16" src="https://user-images.githubusercontent.com/55869293/174494324-1663d847-bc86-49dd-b7a6-f007a7ca5c40.png">
- | Profile Screenshot 8 | Profile Screenshot 9 |
+| <img width="631" alt="Screenshot 1401-03-29 at 19 59 16" src="https://user-images.githubusercontent.com/55869293/174494324-1663d847-bc86-49dd-b7a6-f007a7ca5c40.png"> | Profile Screenshot 8 | Profile Screenshot 9 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
