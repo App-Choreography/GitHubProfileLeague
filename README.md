@@ -6,6 +6,8 @@
 
 > ##### Will be regularly updated.
 
+Once all spaces are filled, the competition will begin! 2 more entries needed!
+
 ## What is *GitHub Profile League* ?
 👉 Do you want to have the best GitHub profile README?
 
