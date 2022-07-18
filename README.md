@@ -50,7 +50,7 @@ Due to some image sizing, you may have to scroll to see the screenshots of the p
 
 | [Cyebukayire](https://github.com/Cyebukayire) : `🏅 0` | [CODEX108](https://github.com/CODEX108): `🏅 0` | Insert Name 9: `🏅 0` |
 | -------- | -------- | -------- |
-| <img width="631" alt="Screenshot 1401-03-29 at 19 59 16" src="https://user-images.githubusercontent.com/55869293/174494324-1663d847-bc86-49dd-b7a6-f007a7ca5c40.png"> | <img width="631" alt="Codex Profile" src="https://user-images.githubusercontent.com/82377810/179546184-8f06e08d-26a9-460b-bf7d-72dc53d98532.png">| Profile Screenshot 9 |
+| <img width="631" alt="Screenshot 1401-03-29 at 19 59 16" src="https://user-images.githubusercontent.com/55869293/174494324-1663d847-bc86-49dd-b7a6-f007a7ca5c40.png"> | <img width="631" alt="Codex Profile" src="https://user-images.githubusercontent.com/82377810/179592798-6f2a0217-f30d-4405-a54f-96ea0a727f56.png">| Profile Screenshot 9 |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
