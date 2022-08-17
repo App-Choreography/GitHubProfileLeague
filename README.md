@@ -39,7 +39,7 @@ Due to some image sizing, you may have to scroll to see the screenshots of the p
 
 ## League 2 🥈:
 
-| [imaaquibali](https://github.com/imaaquibali): `🏅 0`| [trinib](https://github.com/trinib): `🏅 0` | [Jyoti prakash Rout](https://www.github.com/jyoti-prakashrout): `🏅 0`|
+| [imaaquibali](https://github.com/imaaquibali): `🏅 0`| [trinib](https://github.com/trinib): `🏅 1` | [Jyoti prakash Rout](https://www.github.com/jyoti-prakashrout): `🏅 0`|
 | -------- | -------- | -------- |
 | ![imaaquibali](https://user-images.githubusercontent.com/84700316/174264125-68858792-a98a-4379-a6d0-025b64a7f70b.png) | ![trinib](https://user-images.githubusercontent.com/18756975/174445117-4c24ce74-13aa-4070-a110-4628a14d0203.jpg) |  ![Jyoti-prakash-rout (Jyoti prakash Rout)](https://user-images.githubusercontent.com/85782825/174464302-61ff4495-1ce7-4d89-850d-e5a9d79b553d.png) |
 
@@ -48,7 +48,7 @@ Due to some image sizing, you may have to scroll to see the screenshots of the p
 ## League 3 🥉:
 
 
-| [Cyebukayire](https://github.com/Cyebukayire) : `🏅 0` | [CODEX108](https://github.com/CODEX108): `🏅 0` | [Cwaku](https://github.com/cwaku): `🏅 0` |
+| [Cyebukayire](https://github.com/Cyebukayire) : `🏅 0` | [CODEX108](https://github.com/CODEX108): `🏅 0` | [Cwaku](https://github.com/cwaku): `🏅 1` |
 | -------- | -------- | -------- |
 | <img width="631" alt="Screenshot 1401-03-29 at 19 59 16" src="https://user-images.githubusercontent.com/55869293/174494324-1663d847-bc86-49dd-b7a6-f007a7ca5c40.png"> | <img width="631" alt="Codex Profile" src="https://user-images.githubusercontent.com/82377810/179592798-6f2a0217-f30d-4405-a54f-96ea0a727f56.png">| <img width="631" alt="Cwaku Profile" src="https://user-images.githubusercontent.com/29071984/183240764-823621df-101d-4770-b52a-0d83f80c6d16.png"> |
 
